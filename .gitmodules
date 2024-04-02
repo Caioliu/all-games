@@ -1,0 +1,9 @@
+[submodule "rpg-duel-v1"]
+	path = rpg-duel-v1
+	url = https://github.com/Caioliu/rpg-duel-v1.git
+[submodule "rpg-duel-v2"]
+	path = rpg-duel-v2
+	url = https://github.com/Caioliu/rpg-duel-v2.git
+[submodule "kotlin-tic-tac-toe-game"]
+	path = kotlin-tic-tac-toe-game
+	url = https://github.com/Caioliu/kotlin-tic-tac-toe-game.git
